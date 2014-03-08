@@ -1,0 +1,11 @@
+{
+  "name": "adamcunnington.info",
+  "version": "0.1.0",
+  "main": "css/main.css",
+  "ignore": [
+    "**/*.sublime*"
+  ],
+  "dependencies": {
+    "boostrap": "latest",
+    "modernizr": "latest",
+}
