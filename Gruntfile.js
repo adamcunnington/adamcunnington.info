@@ -1,4 +1,4 @@
-// Generated on 2014-03-08 using generator-webapp 0.4.8
+// Generated on 2014-03-10 using generator-webapp 0.4.8
 'use strict';
 
 // # Globbing
@@ -276,8 +276,7 @@ module.exports = function (grunt) {
                         '.htaccess',
                         'images/{,*/}*.webp',
                         '{,*/}*.html',
-                        'styles/fonts/{,*/}*.*',
-                        'bower_components/bootstrap/dist/fonts/*.*'
+                        'styles/fonts/{,*/}*.*'
                     ]
                 }]
             },

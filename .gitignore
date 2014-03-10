@@ -1,2 +1,7 @@
-# Sublime Files
+# .sass-cache
+*.sh
 *.sublime*
+.tmp
+app/components
+dist
+node_modules

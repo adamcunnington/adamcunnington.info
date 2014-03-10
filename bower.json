@@ -1,11 +1,14 @@
 {
   "name": "adamcunnington.info",
   "version": "0.1.0",
-  "main": "css/main.css",
-  "ignore": [
-    "**/*.sublime*"
+  "main": [
+  	"index.html",
+  	"styles/main.css",
+  	"scripts/main.js"
   ],
   "dependencies": {
-    "boostrap": "latest",
-    "modernizr": "latest",
+    "boostrap": "3.0.0",
+    "modernizr": "2.6.2",
+  },
+  "private": true
 }
