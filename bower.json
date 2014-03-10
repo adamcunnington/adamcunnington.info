@@ -7,8 +7,11 @@
   	"scripts/main.js"
   ],
   "dependencies": {
-    "boostrap": "3.0.0",
-    "modernizr": "2.6.2",
+    "animation-frame": "latest",
+    "bootstrap-sass-official": "latest",
+    "jquery-mousewheel": "latest",
+    "jquery-scrollspy-thesmart": "latest",
+    "modernizr": "latest"
   },
   "private": true
 }
